@@ -1,0 +1,1 @@
+MSCS 525 - Artificial Intelligence projects
